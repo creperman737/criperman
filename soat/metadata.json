@@ -1,0 +1,8 @@
+{
+  "uuid": "cripos-clock@criperman",
+  "name": "CripOS Clock",
+  "description": "A simple neon green digital clock for the Cinnamon desktop.",
+  "version": "1.0",
+  "author": "CripOS",
+  "last-edited": "2026-09-06"
+}

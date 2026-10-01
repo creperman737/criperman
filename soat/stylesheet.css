@@ -1,0 +1,29 @@
+.cripos-clock-container {
+    background-color: rgba(0, 0, 0, 0.35);
+    padding: 16px 26px;
+    border-radius: 12px;
+    border: 1px solid rgba(0, 255, 102, 0.3);
+    min-width: 320px;
+}
+
+.cripos-clock-time {
+    color: #00ff66;
+    font-size: 56px;
+    font-weight: bold;
+    font-family: "DejaVu Sans", "Ubuntu Mono", monospace;
+    text-align: center;
+    text-shadow:
+        0 0 5px rgba(0,255,102,0.9),
+        0 0 12px rgba(0,255,102,0.75),
+        0 0 24px rgba(0,255,102,0.5);
+}
+
+.cripos-clock-date {
+    color: #88ffbb;
+    font-size: 18px;
+    font-weight: 500;
+    font-family: "DejaVu Sans", "Ubuntu", sans-serif;
+    text-align: center;
+    margin-top: 6px;
+    text-shadow: 0 0 8px rgba(0, 255, 102, 0.5);
+}
